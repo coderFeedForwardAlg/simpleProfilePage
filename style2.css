@@ -1,0 +1,51 @@
+body{
+    background-image: url("images/codingPic.png");
+    background-size: 100%;
+}
+
+.whiteT{
+    color: rgb(255, 255, 255);
+
+}
+
+.navbar {
+    background-color: rgb(17, 182, 17) !important;
+}
+
+.navbar-brand {
+    color: rgb(0, 0, 0) !important;
+}
+
+.nav-link {
+    color: white !important;
+}
+
+
+
+.myImg {
+    z-index: 1;
+    height: 250px;
+    
+    border: 10px solid rgb(19, 167, 19);
+    margin-top: 10%;
+    border-radius: 20%;
+    filter: brightness(70%);
+    transition: 1s;
+
+}
+
+.myImg:hover {
+    filter: brightness(100%);
+    transform: scale(1.2);
+    box-shadow: 10px 10px 10px 10px;
+}
+
+.backImg{
+    margin-left: 0%;
+    width: 100%;
+    
+}
+
+.ic {
+    text-align: center;
+}
