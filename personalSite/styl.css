@@ -4,7 +4,7 @@ body{
 }
 
 .navbar {
-    background-color: rgb(17, 182, 17) !important;
+    background-color: rgb(14, 138, 14) !important;
 }
 
 .navbar-brand {
@@ -15,12 +15,7 @@ body{
     color: white !important;
 }
 
-.boldText{
-    padding-top: 30%;
-    font-size: large;
-    font-weight: 700;
-    
-}
+
 
 .myImg {
     z-index: 1;
